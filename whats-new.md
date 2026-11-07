@@ -2,7 +2,7 @@
 [Home](README.md) · [Compute](compute-cpus.md) · [AI](ai-agentic-workloads.md)
 Dated public announcements relevant to infrastructure and AI workloads. Announcements explain direction and product context; use current service documentation and regional availability checks when planning deployments.
 ## NVIDIA Vera CPUs on OCI
-**Published:** October 27, 2026 · **Reviewed:** November 7, 2026
+**Published:** October 27, 2026 · 
 [Read Oracle's announcement](https://blogs.oracle.com/cloud-infrastructure/nvidia-vera-cpus-oci)
 - **What it describes:** OCI Compute with NVIDIA Vera CPUs, including bare-metal and Flex VM options, for CPU-intensive services around AI systems.
 - **When it is relevant:** Evaluating agent orchestration, tool/code execution, retrieval, and other CPU and memory-intensive AI application components.
